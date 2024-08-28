@@ -1,9 +1,0 @@
-# train/val/test  sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
-path: /content/drive/MyDrive/Projectyolo/projectyolodataset # dataset root dir
-train: /content/drive/MyDrive/Projectyolo/projectyolodataset/train/images # train images
-val: /content/drive/MyDrive/Projectyolo/projectyolodataset/val/images # val images
-test: /content/drive/MyDrive/Projectyolo/projectyolodataset/test/images # test images
-
-
-nc: 3
-names: ['Enquiry-license-plate', 'Missing-license-plate', 'Registered-license-plate']
