@@ -22,9 +22,9 @@ The project is based on the development of recent improvements of OCR and CV tec
 Thus, incorporating these technologies with the YOLOv8 model, we designed the system that meets the requirements of vehicle security monitoring to offer a novel approach to reducing vehicle crimes.
 
 ### TEAM MEMBERS
-- MAUSAMI GORKHA
-- RENUKA RAMASAMY
-- SUNDARESWARI THIYAGARAJAN
-- DIVYA BHAGWAT
+- Mausami Gorkha
+- Renuka Ramasamy
+- Sundareswari thiyagarajan
+- Divya Bhagwat
 
    
